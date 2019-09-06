@@ -1,7 +1,5 @@
 # Kiva Loan Prediction NLP
 
-Author: Andrew Garvey (MMAI Group Project)
-
 Date: Jan-Feb 2019 
 
 Languages: Python, Jupyter Notebook (for visualization purposes
